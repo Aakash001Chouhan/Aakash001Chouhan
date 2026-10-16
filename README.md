@@ -82,20 +82,13 @@
 
 📈 GitHub Contribution Activity
 
+<!-- REMOVE THESE LINES FROM YOUR README TO DELETE THE BROKEN ICONS -->
 <p align="center">
-  <img src="https://rshah.org" alt="Aakash's Blue GitHub Chart" width="100%" />
-</p>
-
-
-
-<p align="center">
-<a href="https://github.com/Aakash001Chouhan">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash001Chouhan&bg_color=1a1b27&color=70a5fd&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Aakash's%20Contribution%20Graph" width="100%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com">
+<img src="https://vercel.app" width="100%" alt="GitHub contribution activity graph"/>
 </a>
 </p>
 
-If the graph doesn't appear, try opening its image URL directly in your browser. The third-party graph service may be temporarily unavailable or unable to retrieve your contribution data.
-🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation eating GitHub contributions" width="100%"/>
