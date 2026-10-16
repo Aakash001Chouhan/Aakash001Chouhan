@@ -80,14 +80,7 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=Aakash001Chouhan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-📈 GitHub Contribution Activity
 
-<!-- REMOVE THESE LINES FROM YOUR README TO DELETE THE BROKEN ICONS -->
-<p align="center">
-<a href="https://github.com">
-<img src="https://vercel.app" width="100%" alt="GitHub contribution activity graph"/>
-</a>
-</p>
 
 
 <p align="center">
