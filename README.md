@@ -83,8 +83,9 @@
 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://rshah.org" alt="Aakash's Blue GitHub Chart" width="100%" />
 </p>
+
 
 
 <p align="center">
